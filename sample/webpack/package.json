@@ -4,7 +4,7 @@
   "description": "A sample page for React-PDF.",
   "private": true,
   "scripts": {
-    "build": "webpack"
+    "build": "webpack --mode production"
   },
   "author": {
     "name": "Wojciech Maj",
@@ -14,7 +14,7 @@
   "dependencies": {
     "react": "^16.4.1",
     "react-dom": "^16.4.1",
-    "react-pdf": "latest"
+    "react-pdf": "banyan/react-pdf#pdfjs2"
   },
   "devDependencies": {
     "babel-core": "^6.26.0",
@@ -37,6 +37,6 @@
     "less-loader": "^4.1.0",
     "style-loader": "^0.20.3",
     "url-loader": "^1.0.1",
-    "webpack": "^3.11.0"
+    "webpack": "^4.16.0"
   }
 }

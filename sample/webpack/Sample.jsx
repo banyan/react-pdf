@@ -44,7 +44,7 @@ class Sample extends Component {
           </div>
           <div className="Example__container__document">
             <Document
-              file={file}
+              file={"https://www.tutorialspoint.com/typescript/typescript_tutorial.pdf"}
               onLoadSuccess={this.onDocumentLoadSuccess}
               options={options}
             >
