@@ -4495,7 +4495,7 @@ pbkdf2@^3.0.3:
 
 pdfjs-dist@banyan/pdfjs-dist#master:
   version "2.0.489"
-  resolved "https://codeload.github.com/banyan/pdfjs-dist/tar.gz/3e676a5c8ac4bb2fffeeb9aa38e1b246a9533be1"
+  resolved "https://codeload.github.com/banyan/pdfjs-dist/tar.gz/6df368b5ed3ea26a95443b27554b60c1233ba78a"
   dependencies:
     node-ensure "^0.0.0"
     worker-loader "^1.1.1"
